@@ -1,7 +1,7 @@
 
 • 📝 Cadastro de Clientes (com Tkinter + ViaCEP)
 
-Projeto desenvolvido durante o curso de **Análise e Desenvolvimento de Sistemas** (SENAI Curitiba).
+Projeto desenvolvido durante o curso de **Técnico em Desenvolvimento de Sistemas** (SENAI Curitiba).
 
 • 💡 Sobre o projeto
 
@@ -55,5 +55,5 @@ Cadastro/
 • 👨‍💻 Autor
 
 **Lucas Ribeiro da Silva**  
-Estudante de ADS – SENAI Curitiba  
+Estudante de DS – SENAI Curitiba  
 [GitHub @Lucasribeiro-Silva](https://github.com/Lucasribeiro-Silva)
